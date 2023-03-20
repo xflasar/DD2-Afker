@@ -16,4 +16,8 @@ Features:
 
 # How to start
 
-Download newest python 3.10 or any version of python (you can use microsoft store one). Ether create new folder and place the main.py inside of it and open command line in the folder or open command line and run python "absolute path to main.py". To exit ether close the command line or press Ctrl+c.
+    - Download the latest version of [Python](https://www.python.org/downloads/) preferably but can run in older versions. You can use the Microsoft Store to download it.
+    - Create a new folder and place the `main.py` file inside it.
+    - Open the command line in the folder where `main.py` is located.
+    - Run the command python `main.py` in the command line.
+    - To exit, either close the command line window or press Ctrl+C.
